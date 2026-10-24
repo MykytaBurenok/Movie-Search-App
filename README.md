@@ -5,19 +5,16 @@ A responsive movie search application built with React, TypeScript, Vite, and Ta
 
 [View the live project](https://04-react-query-4xgjm38sp-mykytaburenoks-projects.vercel.app/)
 
-## Live Preview
-
-<p align="center">
-  <img src="./public/demo/video_2026-05-13_16-53-19.gif" width="325" height="650"  />
-</p>
-
 ## Preview
 
 <p align="center">
-  <img src="./public/demo/Screenshot 2026-05-13 163534.png" width="900"/>
+  <img src="./public/demo/first screen" width="900"/>
 </p>
 <p align="center">
-  <img src="./public/demo/Screenshot 2026-05-13 163550.png" width="900"/>
+  <img src="./public/demo/second 2026-05-13 163550.png" width="900"/>
+</p>
+<p align="center">
+  <img src="./public/demo/third screen 2026-05-13 163550.png" width="900"/>
 </p>
 
 Overview
