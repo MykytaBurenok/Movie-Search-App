@@ -11,10 +11,10 @@ A responsive movie search application built with React, TypeScript, Vite, and Ta
   <img src="./public/demo/first screen" width="900"/>
 </p>
 <p align="center">
-  <img src="./public/demo/second 2026-05-13 163550.png" width="900"/>
+  <img src="./public/demo/second" width="900"/>
 </p>
 <p align="center">
-  <img src="./public/demo/third screen 2026-05-13 163550.png" width="900"/>
+  <img src="./public/demo/third screen" width="900"/>
 </p>
 
 Overview
